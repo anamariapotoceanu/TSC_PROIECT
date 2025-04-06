@@ -155,7 +155,7 @@ OpenBook este un e-reader open-source construit in jurul microcontrollerului ESP
 | 23 | EPD_RST | Reset alternativ e-paper display |
 
 ## Imagini
-![OpenBook](images/OpenBook%20Enclosure%20v1.png)
+![OpenBook](Images/OpenBook%20Enclosure%20v1.png)
 ![OpenBook](images/OpenBook%20Enclosure_interior.png)
 ![OpenBook](images/OpenBook%20Enclosure%20v6.png)
 ![OpenBook](images/OpenBook%20Enclosure_interior.png)
