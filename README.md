@@ -129,7 +129,7 @@ OpenBook este un e-reader open-source construit in jurul microcontrollerului ESP
 
 | IO Pin | Semnal     | Rol                                               |
 |--------|------------|----------------------------------------------------|
-|
+| 0| |
 | 1 | 32KHZ | Oscilator 32kHz pentru RTC |
 | 2 | MISO | SPI MISO date de la periferice |
 | 3 | EPD_BUSY | Semnal ocupat de la afisaj e-paper |
