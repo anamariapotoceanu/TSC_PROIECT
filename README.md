@@ -163,6 +163,7 @@ Am aprobat erorile de DRC aparute la mufa USB din cauza celor doua gauri, deoare
 mecanice ale mufei si nu afecteaza functionalitatea.
 
 ![OpenBook](erori_schematic.png)
+
 ![OpenBook](erori.png)
 
 ## Imagini
