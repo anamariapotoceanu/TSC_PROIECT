@@ -166,10 +166,10 @@ mecanice ale mufei si nu afecteaza functionalitatea.
 ![OpenBook](erori.png)
 
 ## Imagini
-![OpenBook](images/OpenBook%20Enclosure%20v1.png)
-![OpenBook](images/OpenBook%20Enclosure_interior.png)
-![OpenBook](images/OpenBook%20Enclosure%20v6.png)
-![OpenBook](images/OpenBook%20Enclosure_interior.png)
-![OpenBook](images/display_top.png)
+![OpenBook](Images/OpenBook%20Enclosure%20v1.png)
+![OpenBook](Images/OpenBook%20Enclosure_interior.png)
+![OpenBook](Images/OpenBook%20Enclosure%20v6.png)
+![OpenBook](Images/OpenBook%20Enclosure_interior.png)
+![OpenBook](Images/display_top.png)
 
 
